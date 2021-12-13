@@ -1,0 +1,59 @@
+{
+  "House": [
+    {
+      "id": 1,
+      "name": "Pinapple suit",
+      "address": "concha #124, bikini bottom",
+      "beds": 1,
+      "baths": 1,
+      "rate": 4.7,
+      "space": "230 ft²",
+      "price": "$440/m",
+      "img": "https://i.pinimg.com/originals/bd/a8/3b/bda83ba5ea818daf86047648c2d02e38.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bungalow Rock",
+      "address": "concha #123, bikini bottom",
+      "beds": 1,
+      "baths": 1,
+      "rate": 4.1,
+      "space": "80 ft²",
+      "price": "$130/m",
+      "img": "https://static.wikia.nocookie.net/bobesponjaespana/images/a/a0/288px-Yfggf.jpg/revision/latest/scale-to-width-down/288?cb=20120911105601&path-prefix=es"
+    },
+    {
+      "id": 3,
+      "name": "Moai Mansion",
+      "address": "concha #122, bikini bottom",
+      "beds": 1,
+      "baths": 1,
+      "rate": 4.5,
+      "space": "100 ft²",
+      "price": "$140/m",
+      "img": "https://static.wikia.nocookie.net/bobesponja/images/8/85/Porquee2.jpg/revision/latest?cb=20110110231336"
+    },
+    {
+      "id": 4,
+      "name": "Dome House",
+      "address": "In front of Plains",
+      "beds": 1,
+      "baths": 2,
+      "rate": 4.9,
+      "space": "800 ft²",
+      "price": "$1440/m",
+      "img": "https://pbs.twimg.com/media/EWfWiNbXsAA_oQ_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chum Bucket",
+      "address": "Concha Street",
+      "beds": 1,
+      "baths": 10,
+      "rate": 2.7,
+      "space": "460 ft²",
+      "price": "$100/m",
+      "img": "https://image.myanimelist.net/ui/kmO_Tvz8EYpjQT-Z7ZyMfS_R0K5BK7vCwhUUQS0fM-ssiRLzzD4oPQQuCZa_cNsaAesq3aI52nyGFi6LjVGqC_IMcocsmcedDJkc9KJMt4U"
+    }
+  ]
+}
